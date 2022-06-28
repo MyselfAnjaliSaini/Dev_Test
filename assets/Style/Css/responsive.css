@@ -46,5 +46,8 @@
     .img_sec img {
         height: 245px;
     }
+    .btn_large{
+        padding: 15px 30px;
+        }
 
 }
