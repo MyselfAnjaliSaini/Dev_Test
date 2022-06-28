@@ -1,0 +1,51 @@
+@font-face {
+    font-family: 'Poppins_light';
+    src: url('../Webfonts/Poppins-Light.eot');
+    src: url('../Webfonts/Poppins-Light.eot?#iefix') format('embedded-opentype'),
+        url('../Webfonts/Poppins-Light.woff2') format('woff2'),
+        url('../Webfonts/Poppins-Light.woff') format('woff'),
+        url('../Webfonts/Poppins-Light.ttf') format('truetype'),
+        url('../Webfonts/Poppins-Light.svg#Poppins-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FuturaPTCond_bold';
+    src: url('../Webfonts/FuturaPTCond-Bold.eot');
+    src: url('../Webfonts/FuturaPTCond-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../Webfonts/FuturaPTCond-Bold.woff2') format('woff2'),
+        url('../Webfonts/FuturaPTCond-Bold.woff') format('woff'),
+        url('../Webfonts/FuturaPTCond-Bold.ttf') format('truetype'),
+        url('../Webfonts/FuturaPTCond-Bold.svg#FuturaPTCond-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Poppins_medium';
+    src: url('../Webfonts/Poppins-Medium.eot');
+    src: url('../Webfonts/Poppins-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../Webfonts/Poppins-Medium.woff2') format('woff2'),
+        url('../Webfonts/Poppins-Medium.woff') format('woff'),
+        url('../Webfonts/Poppins-Medium.ttf') format('truetype'),
+        url('../Webfonts/Poppins-Medium.svg#Poppins-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Poppins_semibold';
+    src: url('../Webfonts/Poppins-SemiBold.eot');
+    src: url('../Webfonts/Poppins-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('../Webfonts/Poppins-SemiBold.woff2') format('woff2'),
+        url('../Webfonts/Poppins-SemiBold.woff') format('woff'),
+        url('../Webfonts/Poppins-SemiBold.ttf') format('truetype'),
+        url('../Webfonts/Poppins-SemiBold.svg#Poppins-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}

@@ -1,0 +1,50 @@
+@media(max-width:1023px) {
+    .card_section {
+        flex-wrap: wrap;
+        gap: 60px;
+    }
+
+    .card {
+        max-width: 556px;
+        width: 100%;
+    }
+
+    .img_sec img {
+        height: 296px;
+    }
+}
+
+@media(max-width:767px) {
+    .text_5 {
+        font: 50px/64px 'FuturaPTCond_bold';
+    }
+
+    .text_3 {
+        font: 23px/34px 'Poppins_semibold';
+    }
+
+    .text_4 {
+        font: 16px 'Poppins_semibold';
+    }
+    .card {
+        max-width: 335px;
+        width: 100%;
+    }
+    .line {
+        width: 175px;
+    }
+
+    .heading {
+        gap: 20px
+    }
+
+    .card_section {
+        padding: 60px 0;
+
+    }
+
+    .img_sec img {
+        height: 245px;
+    }
+
+}
